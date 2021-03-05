@@ -11,8 +11,9 @@ from typing import List
 import numpy as np
 from scipy.ndimage import center_of_mass
 from scipy.spatial import ConvexHull
+import sys
 
-
+sys.stdout = open('IS597_A5.txt', 'w')
 def get_orientations_possible(block: np.ndarray) -> List[List[dict]]:
     """Given a 3D numpy array, look at its shape to determine how many ways it
     can be rotated in each axis to end up with a (theoretically) different array
@@ -314,4 +315,4 @@ if __name__ == '__main__':
     shape_list = [shape_1,shape_2,shape_3]
     analyze_sculptures(block_list,shape_list)
 
-
+sys.stdout.close()

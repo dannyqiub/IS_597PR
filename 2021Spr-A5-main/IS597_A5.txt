@@ -1,0 +1,138 @@
+Shape File :shape_1.npy
+   Block File :block_1.npy
+       Rotation:None                             mean density : 51.52 Stable                                  
+       Rotation:90   axis 2 to 1                 mean density : 51.52 Stable
+       Rotation:180  axis 2 to 1                 mean density : 51.52 Stable
+       Rotation:270  axis 2 to 1                 mean density : 51.52 Stable
+       Rotation:180  axis 0 to 1                 mean density : 51.46 Stable
+       Rotation:180  axis 0 to 1,90  axis 2 to 1 mean density : 51.45 Stable
+       Rotation:180  axis 0 to 1,180 axis 2 to 1 mean density : 51.45 Stable
+       Rotation:180  axis 0 to 1,270 axis 2 to 1 mean density : 51.45 Stable
+   Block File :block_2.npy
+       Rotation:None                             mean density : 42.82 Stable                                  
+       Rotation:90   axis 2 to 1                 mean density : 42.81 Stable
+       Rotation:180  axis 2 to 1                 mean density : 42.81 Stable
+       Rotation:270  axis 2 to 1                 mean density : 42.81 Stable
+       Rotation:180  axis 0 to 1                 mean density : 42.80 Stable
+       Rotation:180  axis 0 to 1,90  axis 2 to 1 mean density : 42.80 Stable
+       Rotation:180  axis 0 to 1,180 axis 2 to 1 mean density : 42.80 Stable
+       Rotation:180  axis 0 to 1,270 axis 2 to 1 mean density : 42.80 Stable
+   Block File :block_3.npy
+       Rotation:None                             mean density : 56.69 Stable                                  
+       Rotation:90   axis 2 to 1                 mean density : 56.69 Stable
+       Rotation:180  axis 2 to 1                 mean density : 56.69 Stable
+       Rotation:270  axis 2 to 1                 mean density : 56.69 Stable
+       Rotation:180  axis 0 to 1                 mean density : 56.66 Stable
+       Rotation:180  axis 0 to 1,90  axis 2 to 1 mean density : 56.66 Stable
+       Rotation:180  axis 0 to 1,180 axis 2 to 1 mean density : 56.66 Stable
+       Rotation:180  axis 0 to 1,270 axis 2 to 1 mean density : 56.66 Stable
+   Block File :block_4.npy
+       Rotation:None                             mean density : 56.68 Unstable                                
+       Rotation:90   axis 2 to 1                 mean density : 56.68 Unstable
+       Rotation:180  axis 2 to 1                 mean density : 56.68 Stable
+       Rotation:270  axis 2 to 1                 mean density : 56.68 Stable
+       Rotation:180  axis 0 to 1                 mean density : 56.65 Stable
+       Rotation:180  axis 0 to 1,90  axis 2 to 1 mean density : 56.65 Stable
+       Rotation:180  axis 0 to 1,180 axis 2 to 1 mean density : 56.65 Unstable
+       Rotation:180  axis 0 to 1,270 axis 2 to 1 mean density : 56.65 Unstable
+   Block File :block_5.npy
+       Rotation:None                             mean density : 76.71 Stable                                  
+       Rotation:90   axis 2 to 1                 mean density : 76.71 Stable
+       Rotation:180  axis 2 to 1                 mean density : 76.71 Unstable
+       Rotation:270  axis 2 to 1                 mean density : 76.71 Stable
+       Rotation:180  axis 0 to 1                 mean density : 12.32 Unstable
+       Rotation:180  axis 0 to 1,90  axis 2 to 1 mean density : 12.32 Unstable
+       Rotation:180  axis 0 to 1,180 axis 2 to 1 mean density : 12.32 Stable
+       Rotation:180  axis 0 to 1,270 axis 2 to 1 mean density : 12.32 Stable
+Shape File :shape_2.npy
+   Block File :block_1.npy
+       Rotation:None                             mean density : 51.48 Stable                                  
+       Rotation:90   axis 2 to 1                 mean density : 51.48 Stable
+       Rotation:180  axis 2 to 1                 mean density : 51.48 Stable
+       Rotation:270  axis 2 to 1                 mean density : 51.48 Stable
+       Rotation:180  axis 0 to 1                 mean density : 51.50 Stable
+       Rotation:180  axis 0 to 1,90  axis 2 to 1 mean density : 51.50 Stable
+       Rotation:180  axis 0 to 1,180 axis 2 to 1 mean density : 51.50 Stable
+       Rotation:180  axis 0 to 1,270 axis 2 to 1 mean density : 51.50 Stable
+   Block File :block_2.npy
+       Rotation:None                             mean density : 42.81 Stable                                  
+       Rotation:90   axis 2 to 1                 mean density : 42.81 Stable
+       Rotation:180  axis 2 to 1                 mean density : 42.81 Stable
+       Rotation:270  axis 2 to 1                 mean density : 42.81 Stable
+       Rotation:180  axis 0 to 1                 mean density : 42.80 Stable
+       Rotation:180  axis 0 to 1,90  axis 2 to 1 mean density : 42.80 Stable
+       Rotation:180  axis 0 to 1,180 axis 2 to 1 mean density : 42.80 Stable
+       Rotation:180  axis 0 to 1,270 axis 2 to 1 mean density : 42.80 Stable
+   Block File :block_3.npy
+       Rotation:None                             mean density : 56.65 Stable                                  
+       Rotation:90   axis 2 to 1                 mean density : 56.65 Stable
+       Rotation:180  axis 2 to 1                 mean density : 56.65 Stable
+       Rotation:270  axis 2 to 1                 mean density : 56.65 Stable
+       Rotation:180  axis 0 to 1                 mean density : 56.66 Stable
+       Rotation:180  axis 0 to 1,90  axis 2 to 1 mean density : 56.66 Stable
+       Rotation:180  axis 0 to 1,180 axis 2 to 1 mean density : 56.66 Stable
+       Rotation:180  axis 0 to 1,270 axis 2 to 1 mean density : 56.66 Stable
+   Block File :block_4.npy
+       Rotation:None                             mean density : 55.69 Unstable                                
+       Rotation:90   axis 2 to 1                 mean density : 55.69 Unstable
+       Rotation:180  axis 2 to 1                 mean density : 55.69 Unstable
+       Rotation:270  axis 2 to 1                 mean density : 55.69 Unstable
+       Rotation:180  axis 0 to 1                 mean density : 55.70 Unstable
+       Rotation:180  axis 0 to 1,90  axis 2 to 1 mean density : 55.70 Unstable
+       Rotation:180  axis 0 to 1,180 axis 2 to 1 mean density : 55.70 Unstable
+       Rotation:180  axis 0 to 1,270 axis 2 to 1 mean density : 55.70 Unstable
+   Block File :block_5.npy
+       Rotation:None                             mean density : 38.45 Unstable                                
+       Rotation:90   axis 2 to 1                 mean density : 38.45 Unstable
+       Rotation:180  axis 2 to 1                 mean density : 38.45 Unstable
+       Rotation:270  axis 2 to 1                 mean density : 38.45 Unstable
+       Rotation:180  axis 0 to 1                 mean density : 47.54 Unstable
+       Rotation:180  axis 0 to 1,90  axis 2 to 1 mean density : 47.54 Unstable
+       Rotation:180  axis 0 to 1,180 axis 2 to 1 mean density : 47.54 Unstable
+       Rotation:180  axis 0 to 1,270 axis 2 to 1 mean density : 47.54 Unstable
+Shape File :shape_3.npy
+   Block File :block_1.npy
+       Rotation:None                             mean density : 51.47 Stable                                  
+       Rotation:90   axis 2 to 1                 mean density : 51.47 Stable
+       Rotation:180  axis 2 to 1                 mean density : 51.47 Stable
+       Rotation:270  axis 2 to 1                 mean density : 51.47 Stable
+       Rotation:180  axis 0 to 1                 mean density : 51.51 Stable
+       Rotation:180  axis 0 to 1,90  axis 2 to 1 mean density : 51.51 Stable
+       Rotation:180  axis 0 to 1,180 axis 2 to 1 mean density : 51.51 Stable
+       Rotation:180  axis 0 to 1,270 axis 2 to 1 mean density : 51.51 Stable
+   Block File :block_2.npy
+       Rotation:None                             mean density : 42.82 Stable                                  
+       Rotation:90   axis 2 to 1                 mean density : 42.82 Stable
+       Rotation:180  axis 2 to 1                 mean density : 42.82 Stable
+       Rotation:270  axis 2 to 1                 mean density : 42.82 Stable
+       Rotation:180  axis 0 to 1                 mean density : 42.78 Stable
+       Rotation:180  axis 0 to 1,90  axis 2 to 1 mean density : 42.78 Stable
+       Rotation:180  axis 0 to 1,180 axis 2 to 1 mean density : 42.78 Stable
+       Rotation:180  axis 0 to 1,270 axis 2 to 1 mean density : 42.78 Stable
+   Block File :block_3.npy
+       Rotation:None                             mean density : 56.62 Stable                                  
+       Rotation:90   axis 2 to 1                 mean density : 56.62 Stable
+       Rotation:180  axis 2 to 1                 mean density : 56.62 Stable
+       Rotation:270  axis 2 to 1                 mean density : 56.62 Stable
+       Rotation:180  axis 0 to 1                 mean density : 56.68 Stable
+       Rotation:180  axis 0 to 1,90  axis 2 to 1 mean density : 56.68 Stable
+       Rotation:180  axis 0 to 1,180 axis 2 to 1 mean density : 56.68 Stable
+       Rotation:180  axis 0 to 1,270 axis 2 to 1 mean density : 56.68 Stable
+   Block File :block_4.npy
+       Rotation:None                             mean density : 56.26 Unstable                                
+       Rotation:90   axis 2 to 1                 mean density : 56.26 Unstable
+       Rotation:180  axis 2 to 1                 mean density : 56.26 Unstable
+       Rotation:270  axis 2 to 1                 mean density : 56.26 Unstable
+       Rotation:180  axis 0 to 1                 mean density : 56.28 Unstable
+       Rotation:180  axis 0 to 1,90  axis 2 to 1 mean density : 56.28 Unstable
+       Rotation:180  axis 0 to 1,180 axis 2 to 1 mean density : 56.28 Unstable
+       Rotation:180  axis 0 to 1,270 axis 2 to 1 mean density : 56.28 Unstable
+   Block File :block_5.npy
+       Rotation:None                             mean density : 62.37 Stable                                  
+       Rotation:90   axis 2 to 1                 mean density : 62.37 Stable
+       Rotation:180  axis 2 to 1                 mean density : 62.37 Stable
+       Rotation:270  axis 2 to 1                 mean density : 62.37 Stable
+       Rotation:180  axis 0 to 1                 mean density : 23.91 Stable
+       Rotation:180  axis 0 to 1,90  axis 2 to 1 mean density : 23.91 Stable
+       Rotation:180  axis 0 to 1,180 axis 2 to 1 mean density : 23.91 Stable
+       Rotation:180  axis 0 to 1,270 axis 2 to 1 mean density : 23.91 Stable
