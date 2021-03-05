@@ -138,6 +138,9 @@ def carve_sculpture_from_density_block(shape: np.ndarray, block: np.ndarray) -> 
     # TODO: write the code for this function, which could be as short as around 3 lines of code!
     # TODO: Add a few good, working Doctests
 
+
+
+
 def is_stable(sculpture: np.ndarray) -> bool:
     """Given a 'sculpted' 3D numpy array, where number values represent densities and
     NaN values represent the areas carved away, determine if it will sit stably
@@ -184,8 +187,13 @@ def analyze_sculptures(block_filenames: list, shape_filenames: list):
     :param block_filenames:
     :param shape_filenames:
     :return:
-    >>>
-
+    >>> marble_block_1 = np.load(file='data/marble_block_1.npy')
+    >>> marble_block_5 = np.load(file='data/marble_block_5.npy')
+    >>> marble_list=[marble_block_1,marble_block_5]
+    >>> shape_3 = np.load(file='data/shape_3.npy')
+    >>> shape_2 = np.load(file='data/shape_2.npy')
+    >>> shape_list=[shape_2,shape_3]
+    
     """
     shape_count=1
     for i in shape_filenames:
